@@ -19,7 +19,7 @@ from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 
 testo = "xd"
-bad_words = ["fuck", "shit", "sex", "cock", "dick", "bitch", "bastard", "ass","retard", "nigger", "chingchong", "bobo", "tanga", "puta", "pota", "sht", "fk", "faggot"]
+bad_words = ["a"]
 starter = ["Sorry sir/ma'am, this is a Christian server, **no swearing is allowed.**"]
 
 
